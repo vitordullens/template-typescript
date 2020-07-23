@@ -1,0 +1,9 @@
+{
+    "name": "template-typescript",
+    "version": "0.0.1",
+    "description": "template for TypeScript projects",
+    "main": "index.js",
+    "repository": "",
+    "author": "Vitor Dullens <vitordullens2.0@gmail.com>",
+    "license": ""
+  }
