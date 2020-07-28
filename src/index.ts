@@ -1,8 +1,3 @@
-const helloWorld = (msg : string = 'Hello World!') => {
-  process.stdout.write(msg);
-  return msg;
-};
+import helloWorld from './modules/helloWorld';
 
 helloWorld();
-
-export default helloWorld;
