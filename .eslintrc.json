@@ -29,6 +29,7 @@
             "jsx": "never",
             "ts": "never",
             "tsx": "never"
-          }]
+          }],
+        "no-console": "off"
     }
 }
